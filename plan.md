@@ -2,6 +2,7 @@
 
 A plan file in the style of John Carmack's .plan files from the Quake days.
 I use this because being able to do my project tracking in a text file instead of using a mouse is easier for me.
+
 Legend:
 
 |    Prefix     |    Meaning    |
